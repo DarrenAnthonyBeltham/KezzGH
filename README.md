@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KezzGH
 - 👀 I’m interested in learning software enginnering
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C, Java, and HTML/CSS
 - 📫 How to reach me on instagram @darrenab_
 
 <!---
